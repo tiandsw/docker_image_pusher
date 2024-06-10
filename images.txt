@@ -1,4 +1,4 @@
-alpine
-python:alpine3.19
-mzz2017/v2raya
 
+mzz2017/v2raya
+mzz2017/v2raya:v2.2.4.2
+xhofe/alist:latest
